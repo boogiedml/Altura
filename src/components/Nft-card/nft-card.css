@@ -1,0 +1,13 @@
+@media only screen and (max-width: 992px) {
+  .nft__title {
+    font-size: 0.8rem !important;
+  }
+
+  .creator__info h6 {
+    font-size: 0.6rem !important;
+  }
+
+  .creator__info p {
+    font-size: 0.8rem !important;
+  }
+}

@@ -1,0 +1,15 @@
+.footer h5 {
+  font-size: 1.1rem;
+  color: #fff;
+}
+
+.footer {
+  padding-bottom: 30px;
+  background: #343444;
+}
+
+.copyright {
+  font-size: 1.2rem;
+  letter-spacing: 1.3px;
+  font-weight: 500;
+}
